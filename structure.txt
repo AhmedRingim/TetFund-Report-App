@@ -1,0 +1,9 @@
+
+ReportStreamlit/
+├── app.py                 								# Your Streamlit app code
+├── requirements.txt                                  # Dependencies
+├── README.md                                         # Documentation
+├── .gitignore                                        # Files to ignore
+├── packages.txt                                      # (Optional) For Streamlit Cloud
+└── images/                                           # Folder for logo images
+    └── tetfund_logo.png                              # TETFUND logo for reports
